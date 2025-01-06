@@ -1,4 +1,9 @@
 # Demo-Quize-
 Quize Program based on C Language 
 <br>
-Sunil Bhagat is Changing the process
+
+Sunil Kumar
+
+<br>
+
+We will creat Quize program using c language 
